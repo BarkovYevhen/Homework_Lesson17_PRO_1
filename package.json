@@ -1,0 +1,15 @@
+{
+  "name": "homework_lesson17_pro",
+  "version": "1.0.0",
+  "description": "Homework Lesson 17",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yevhen Barkov",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "jquery": "^3.7.0"
+  }
+}
